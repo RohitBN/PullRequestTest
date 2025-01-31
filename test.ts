@@ -5,4 +5,7 @@ export class Test1{
     main2(){
         console.log("added main2 method")
     }
+    TanmayMain(){
+        console.log("added Tanmaymain method")
+    }
 }
